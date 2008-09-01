@@ -1,0 +1,7 @@
+log/*.log
+tmp/**/*
+.DS_Store
+doc/*
+public/uploads/*
+db/*sqlite3
+*.swp
